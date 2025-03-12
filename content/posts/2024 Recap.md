@@ -37,7 +37,7 @@ Hình như tui brag về prof của tui hoài nhưng he actually deserves to be 
 
 15/12: Sinh nhật
 
-*Rất rất nhiều cuộc trò chuyện của tui với bạn bè nhưng tui không nhớ rõ ngày*
+Rất rất nhiều cuộc trò chuyện của tui với bạn bè nhưng tui không nhớ rõ ngày
 
 List những người tui biết ơn vì đã giúp đỡ tui rất nhiều trong năm vừa rồi: BN, LVBC, TT, NL, Shane Donahue. 
 
