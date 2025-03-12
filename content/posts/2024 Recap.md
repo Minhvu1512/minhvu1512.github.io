@@ -1,8 +1,8 @@
 +++
-date = '2025-03-12T02:45:34-04:00'
-draft = true
+date = '2025-03-11T02:45:34-04:00'
 title = '2024 Recap'
 +++
+
 Overall, 2024 thăng trầm cũng nhiều nhưng cũng nhờ vậy tui đã chính chắn hơn và cũng đã tìm được mục tiêu trong cuộc sống. Để tổng kết lại năm vừa rồi thì post này sẽ như một cái archive lưu trữ những sự kiện chính trong năm.
 
 #### *14/2-19/2: Hội DN-DN gặp mặt lần đầu.*

@@ -3,6 +3,8 @@ title        = "minhvu"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 publishDir = "docs"
+contentDir = "content"
+
 
 [params]
   dateform        = "Jan 2, 2006"
