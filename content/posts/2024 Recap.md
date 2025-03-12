@@ -17,7 +17,7 @@ Chúng tôi cãi nhau khi chơi game. Tôi khi đấy không nghe rõ được m
 
 I still miss being a part of the group even though I have fully accepted that we are no longer friends.  Perhaps the essence of connection lies not in what is shared or returned, meaning that relationships are not simply transactional, but are instead shaped by the personal meanings we attach to them. This experience actually gave me so much PTSD of losing another friend lol. It serves as a reminder for me to be more self-possessed and to approach others with a more discerning view of their motives, ensuring that my decisions are aligned with compassion and understanding, thereby preventing any lingering remorse.
 
-#### *21/7: Nhận được job offer làm trợ giảng cho MADS� (cộng thêm 21/10 và 20/12 nhận điểm thi SAT).*
+#### *21/7: Nhận được job offer làm trợ giảng cho MADS (cộng thêm 21/10 và 20/12 nhận điểm thi SAT).*
 
 Hoàn toàn không expect là sẽ được mời vào làm trợ giảng ấy nhưng cũng cảm ơn nhiều vì trung tâm đã tin tưởng và tạo cơ hội để tui phát triển bản thân. Ban đầu tính tháng 3 sẽ thi lại SAT vì không thích con điểm cũ của mình lắm ấy nhưng vì bận vài thứ nên bản thân cũng không có động lực lắm. Đến khi vào làm thì mới mới quyết tâm cải thiện điểm để xứng với danh làm trợ giảng. Thi lại được 1550 thấy điểm cũm cao nhưng mà mình lại muốn điểm cao hơn nữa lol. Không biết tháng 3 sắp tới có nên thi tiếp nữa không. Kiểu tui tin là điểm số phải tồn tại song song với kĩ năng để chứng mình một người có dạy tốt hay không. Tuy tui cũng đang cố cải thiện giọng nói với cách diễn đạt của mình để trở nên tốt hơn nhưng tui vẫn hơi tự ti về điểm của mình sao ấy. 
 
