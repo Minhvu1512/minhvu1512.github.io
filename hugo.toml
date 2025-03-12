@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://minhvu1512.github.io"
 title        = "minhvu"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
