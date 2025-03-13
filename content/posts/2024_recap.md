@@ -4,7 +4,7 @@ title = '2024 Recap'
 +++
 
 <figure class="ma0 w-75">
-  <a href="https://www.nps.gov/zion/index.htm">
+  <a href="">
     <img 
       src="/images/2024_recap/Bana.JPG" 
       alt="Bana cabel cars"
