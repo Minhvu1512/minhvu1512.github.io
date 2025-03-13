@@ -25,7 +25,7 @@ contentDir = "content"
   enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "where I randomly rant and share music, vinyl pictures"
   keywords = "homepage, blog"
   images = [""]
 
