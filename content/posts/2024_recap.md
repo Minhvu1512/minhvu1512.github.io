@@ -15,14 +15,6 @@ title = '2024 Recap'
   </figcaption>
 </figure>
 
-{{< figure
-  src="/images/2024_recap/Bana.JPG"
-  alt="Bana cabel cars"
-  link="https://www.nps.gov/zion/index.htm"
-  caption="Bana cabel cars"
-  class="ma0 w-75"
->}}
-
 Overall, 2024 thăng trầm cũng nhiều nhưng cũng nhờ vậy tui đã chính chắn hơn và cũng đã tìm được mục tiêu trong cuộc sống. Để tổng kết lại năm vừa rồi thì post này sẽ như một cái archive lưu trữ những sự kiện chính trong năm.
 
 #### *14/2-19/2: Hội DN-DN gặp mặt lần đầu.*
