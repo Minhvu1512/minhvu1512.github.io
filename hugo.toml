@@ -6,6 +6,9 @@ publishDir = "docs"
 contentDir = "content"
 ignoreLogs = ['warning-goldmark-raw-html']
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
