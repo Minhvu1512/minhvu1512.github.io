@@ -57,3 +57,7 @@ contentDir = "content"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "vinyl"
+    name       = "vinyl"
+    url        = "/vinyl"
