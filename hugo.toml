@@ -13,7 +13,7 @@ contentDir = "content"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "where I randomly rant, share music, vinyl pictures"
+  homeSubtitle = "where I randomly rant and share music, vinyl pictures"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
