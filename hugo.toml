@@ -22,12 +22,12 @@ contentDir = "content"
   enableSharingButtons = true
   
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
   description = "where I randomly rant and share music, vinyl pictures"
   keywords = "homepage, blog"
-  images = [""]
+  images = ["/images/2024_recap/Bana.JPG"]
 
 [taxonomies]
     category = "blog"
