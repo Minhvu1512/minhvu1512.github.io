@@ -46,7 +46,7 @@ contentDir = "content"
 
     [languages.en.params.logo]
       logoText = "minhvu"
-      logoHomeLink = "/images/2024_recap/Bana.JPG"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
