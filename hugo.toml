@@ -45,7 +45,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
       logoText = "minhvu"
