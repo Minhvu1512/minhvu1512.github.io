@@ -3,7 +3,7 @@ date = '2025-03-11T02:45:34-04:00'
 title = '2024 Recap'
 +++
 
-<figure class="ma0 w-75">
+<figure>
   <a href="https://minhvu1512.github.io/images/2024_recap/Bana.JPG">
     <img 
       src="/images/2024_recap/Bana.JPG" 
@@ -18,7 +18,7 @@ title = '2024 Recap'
 Overall, 2024 thăng trầm cũng nhiều nhưng cũng nhờ vậy tui đã chính chắn hơn và cũng đã tìm được mục tiêu trong cuộc sống. Để tổng kết lại năm vừa rồi thì post này sẽ như một cái archive lưu trữ những sự kiện chính trong năm.
 
 #### *14/2-19/2: Hội DN-DN gặp mặt lần đầu.*
-<figure class="ma0 w-75">
+<figure>
   <a href="https://minhvu1512.github.io/images/2024_recap/Beachshoes.JPG">
     <img 
       src="/images/2024_recap/Beachshoes.JPG" 
@@ -33,7 +33,7 @@ Overall, 2024 thăng trầm cũng nhiều nhưng cũng nhờ vậy tui đã chí
 The group is entitled DN-DN because 2 out of the 6 of us live in Đà Nẵng, and the rest is in Đồng Nai. We became friends on a whim through playing video games online. I was introduced to the group by a girl I befriended in math class. Before moving to Đà Nẵng with her family, she was born and raised in Đồng Nai. Initially, I only expected the group to be acquaintances since everything started out so randomly, but through consistent online conversations, we became close-knit. Before the 1-week trip in Feb, our friendship had already spanned through 3 years of high school, so they were the people whom I adored the most. We met each other in Đà Nẵng, so the people who were living in Đồng Nai, or what we usually call: "The Đồng Nai headquarters," had to fly to Đà Nẵng. They were a pair of siblings who are twins, a high achiever whose hobby is creating tiktok edits of movies, and a quick-witted queer who's straightforward and would usually spit out the most unhinged yet comical things I would've never thought about. The schedule for our "little rendezvous" was planned out thoroughly, accommodating every desire of each person in the group. For me, it was a week of moving back and forth from my house to the place that the group was staying in. My mom actually didn't allow me to have a sleepover with them, thinking that I wouldn't catch any shut-eye for a whole week. It was a bit irritating because I needed to spend more time and money commuting in the morning to stay aligned with our plans. On the bright side, at least I got to spend a week hanging out with them. It's one of those memories that I always think about regularly. Even though some things didn't go as planned, overall, we had a great week. We also celebrated a late birthday for that high achiever guy I mentioned. Some videos will be included with this post.
 
 #### *21/7: Nhận được job offer làm trợ giảng cho MADS (cộng thêm 21/10 và 20/12 nhận điểm thi SAT).*
-<figure class="ma0 w-75">
+<figure>
   <a href="https://minhvu1512.github.io/images/2024_recap/MADS.jpg">
     <img 
       src="/images/2024_recap/MADS.jpg" 
@@ -51,7 +51,7 @@ Ngoài ra thì nhờ có công việc này thì tui mới trở nên goal orient
 
 #### *10/9: Bắt đầu ghé qua office hours của prof.*
 ![App info Permissions]()
-<figure class="ma0 w-75">
+<figure>
   <a href="https://minhvu1512.github.io/images/2024_recap/noodles.JPEG">
     <img 
       src="/images/2024_recap/noodles.JPEG" 
