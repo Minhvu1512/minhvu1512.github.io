@@ -80,6 +80,7 @@ Rất rất nhiều cuộc trò chuyện của tui với bạn bè nhưng tui kh
 List những người tui biết ơn vì đã giúp đỡ tui rất nhiều trong năm vừa rồi: BN, LVBC, TT, NL, Shane Donahue. 
 
 List album nhạc hay năm vừa rồi tôi hay nghe: Brat, The Idler Wheel..., When the Pawn..., Pure Heroine, Titanic Rising, The Rise and Fall of a Midwest Princess, Charm, Daddy's Home, Masseduction.
+
 New year's resolution: Học giỏi hơn, phát triển nhiều hơn.
 
 Cảm ơn vì đã đọc đến đoạn này ❤
