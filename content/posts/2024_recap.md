@@ -2,6 +2,9 @@
 date = '2025-03-11T02:45:34-04:00'
 title = '2024 Recap'
 +++
+<head>
+   <title>Your html title</title>
+</head>
 <figure>
   <a href="https://minhvu1512.github.io/images/2024_recap/Bana.JPG">
     <img 
