@@ -18,9 +18,7 @@
             <description>&lt;html&gt;
 &lt;head&gt;
 &lt;style&gt;
-h1 {text-align: center;}
 p {text-align: center;}
-div {text-align: center;}
 &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
@@ -49,9 +47,7 @@ Overall, 2024 thăng trầm cũng nhiều nhưng cũng nhờ vậy tui đã chí
             <content type="html"><![CDATA[<html>
 <head>
 <style>
-h1 {text-align: center;}
 p {text-align: center;}
-div {text-align: center;}
 </style>
 </head>
 <body>
